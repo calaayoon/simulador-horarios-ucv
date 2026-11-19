@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de Horarios UCV",
+  "description": "Simulador oficial de horarios desarrollado por Ideal UCVista para la Escuela de Derecho de la Universidad Central de Venezuela (UCV). Organiza tus materias, detecta choques y exporta en PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
